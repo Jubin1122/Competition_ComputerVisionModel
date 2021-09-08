@@ -1,0 +1,5 @@
+Dataset/Testing/*
+Dataset/Training/*
+Dataset/Validation/*
+AI_Basic_Test/*
+my_saved_model/my_model/*
